@@ -1,0 +1,28 @@
+.info{
+    background: indigo;
+    height: auto;
+    width: 500px;
+    float:left;
+}
+.info1{
+    background: green;
+    height: auto;
+    width: 500px;
+    float: right;
+}
+.info2{
+    background: blue;
+    height: auto;
+    width: 500px;
+    margin: 5px;
+}
+.info3{
+background:purple;
+height:auto;
+width: 500px;
+}
+.in{
+    background: brown;
+    height:auto;
+    width: 500px;
+}
